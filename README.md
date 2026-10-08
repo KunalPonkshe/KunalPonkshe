@@ -70,6 +70,6 @@ Benchling · Structured data capture · Sample tracking · GMP-related documenta
 
 ### <img src="assets/yarn.svg" width="22" height="22" alt="" /> Beyond the lab
 
-Outside of research and coding, I enjoy crocheting, sewing, and making art. I also love reading, music and dance, and trying new things in the kitchen—both cooking and baking.
+Outside of research and coding, I enjoy crocheting, sewing, and making art. I also love reading, music and dance, and trying new things in the kitchen (cooking and baking)!
 
 I’m always happy to connect with people working on interesting problems in biology, engineering, and computation.
